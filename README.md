@@ -1,6 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working a Todo App using Provider for State Management.
-🌱 I’m currently learning more about Flutter.
+🌱 I’m currently learning more about Flutter and Web development (MERN Stack).
 👯 I’m looking to collaborate on Flutter Projects.
 💬 Ask me about Flutter or Firebase.
 ⚡ Fun fact: I watch a lot of YouTube videos.
