@@ -2,7 +2,7 @@
 🔭 I’m currently working on a Next.js app using App router.
 🌱 I’m currently learning more about Web architecture and Web development (MERN Stack).
 👯 I’m looking to collaborate on MERN Stack Projects.
-💬 Ask me about AI.
+💬 Ask me about AI. 
 ⚡ Fun fact: I watch a lot of YouTube videos.
 
 
