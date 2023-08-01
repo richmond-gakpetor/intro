@@ -1,9 +1,14 @@
 # 💫About Me :
 🔭 I’m currently working on a Next.js app using App router.
+
 🌱 I’m currently learning more about Web architecture and Web development (MERN Stack).
+
 👯 I’m looking to collaborate on MERN Stack Projects.
+
 💬 Ask me about AI.
+
 ⚡ Fun fact: I watch a lot of YouTube videos.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richmond-kafui-gakpetor-b850a1157) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_vision_richie) 
