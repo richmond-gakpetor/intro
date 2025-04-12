@@ -1,11 +1,11 @@
 # Hey! Dev Richie👨🏽‍💻 here :
-🔭 I’m currently working on a Next.js app using App router.
+🔭 I’m currently working on a backend project using Node.js, Serverless framework and AWS Services (S3, DynamoDB, SES).
 
-🌱 I’m currently learning more about Web architecture and Web development (MERN Stack).
+🌱 I’m currently learning more about software architecture and API design.
 
-👯 I’m looking to collaborate on MERN Stack Projects.
+👯 I’m looking to collaborate on cool AI/ML projects.
 
-💬 Ask me about AI. 
+💬 Ask me about AI tools. I know a ton of them at this point ;) 
 
 ⚡ Fun fact: I watch a lot of YouTube videos.
 
