@@ -1,5 +1,5 @@
 # Hey! Dev Richie👨🏽‍💻 here :
-🔭 I’m currently working on a backend projects using Node.js, Serverless framework and AWS Services (S3, DynamoDB, SES).
+🔭 I’m currently working on different applications of the transformer architecture and distributed system concepts.
 
 🌱 I’m currently learning more about Agentic AI, software architecture and API design.
 
